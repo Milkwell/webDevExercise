@@ -7,13 +7,9 @@
 5. saved my work to the main branch
 6. shared my work on slack
 
-<<<<<<< HEAD
+A comment made by Maxwell Hilmo
 Added by Matthew Tubbs
 
 
 My brains are still in bed
 - Hamlet
-=======
-A comment made by Maxwell Hilmo
-Added by Matthew Tubbs
->>>>>>> Matthew
