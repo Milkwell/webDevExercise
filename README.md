@@ -7,8 +7,12 @@
 5. saved my work to the main branch
 6. shared my work on slack
 
+<<<<<<< HEAD
 Added by Matthew Tubbs
 
 
 My brains are still in bed
 - Hamlet
+=======
+Changed by Maxwell Hilmo
+>>>>>>> maxBranch
