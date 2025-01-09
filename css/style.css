@@ -14,13 +14,13 @@ text-align: center;
 div {
 padding-top: 75px;
 /* border: 5px solid whitesmoke; */
-background-color: #0032b0;
+background-color: #00223f;
 width: 100%;
 height: 1100px;
 text-align: center;
 }
 div:hover{
-background-color: #470094;
+background-color: #0032b0;
 }
 img {
 width: 450px;
